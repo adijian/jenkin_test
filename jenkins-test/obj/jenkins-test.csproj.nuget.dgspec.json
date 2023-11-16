@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\kubernetes\\jenkins-test\\jenkins-test\\jenkins-test.csproj": {}
+    "D:\\Projects\\kubernetes\\jenkins\\jenkin_test\\jenkins-test\\jenkins-test.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\kubernetes\\jenkins-test\\jenkins-test\\jenkins-test.csproj": {
+    "D:\\Projects\\kubernetes\\jenkins\\jenkin_test\\jenkins-test\\jenkins-test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\kubernetes\\jenkins-test\\jenkins-test\\jenkins-test.csproj",
+        "projectUniqueName": "D:\\Projects\\kubernetes\\jenkins\\jenkin_test\\jenkins-test\\jenkins-test.csproj",
         "projectName": "jenkins-test",
-        "projectPath": "D:\\Projects\\kubernetes\\jenkins-test\\jenkins-test\\jenkins-test.csproj",
+        "projectPath": "D:\\Projects\\kubernetes\\jenkins\\jenkin_test\\jenkins-test\\jenkins-test.csproj",
         "packagesPath": "C:\\Users\\adij\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\kubernetes\\jenkins-test\\jenkins-test\\obj\\",
+        "outputPath": "D:\\Projects\\kubernetes\\jenkins\\jenkin_test\\jenkins-test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adij\\AppData\\Roaming\\NuGet\\NuGet.Config",
